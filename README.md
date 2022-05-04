@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BitRozzle
-- 👀 I’m interested in dns and bitcoin 
+- 👀 I’m interested in dns and bitcoin and other high roi stuffs
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on people like u 
 - 📫 How to reach me ...
 
 <!---
